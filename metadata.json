@@ -1,0 +1,7 @@
+{
+  "name": "FitMe AI",
+  "description": "Premium virtual try-on fashion engine. See yourself in any outfit instantly with AI-powered identity simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
